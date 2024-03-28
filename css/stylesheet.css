@@ -4,6 +4,10 @@
 
 #header{
     margin-top:50px;
+    background-image: url("../img/slider/slider1.jpg");
+}
+a svg{
+    color: aqua;
 }
 .carousel-caption{
     margin-bottom: 150px;
